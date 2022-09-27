@@ -19,7 +19,9 @@ The goal of this ETL process is to load data into a Google Cloud Storage Bucket.
   bash download_data.sh
   ```
 2. Run the ETL process
-  - python movies_etl.py
+  ```
+  python movies_etl.py
+  ```
 
 ## End Result
 
