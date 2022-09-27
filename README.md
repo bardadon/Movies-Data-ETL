@@ -1,6 +1,6 @@
 # Movies-Data-ETL
 
-The goal of this ETL process is to load data into a Google Cloud Storage Bucket. 
+The goal of this ETL process is to extract movies ratings data, process and load it into a new Google Cloud Storage Bucket. 
 
 ## The steps are:
 1. Download ratings and movies data from https://files.grouplens.org/datasets/movielens.
