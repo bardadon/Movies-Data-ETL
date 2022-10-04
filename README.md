@@ -2,6 +2,8 @@
 
 The goal of this ETL process is to extract movies ratings data, process and load it into a new Google Cloud Storage Bucket. 
 
+Check out my Medium Article at: https://medium.com/@bdadon50/data-engineering-project-movies-data-etl-using-python-gcp-33dcc076166
+
 ## The steps are:
 1. Download ratings and movies data from https://files.grouplens.org/datasets/movielens.
 2. Create a Google Storage Bucket.
