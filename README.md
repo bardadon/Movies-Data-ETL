@@ -5,6 +5,7 @@ The goal of this ETL process is to extract movies ratings data, process and load
 Check out my Medium Article at: https://medium.com/@bdadon50/data-engineering-project-movies-data-etl-using-python-gcp-33dcc076166
 
 ## Project Architecture:
+![forex_data_pipeline-1-1](https://user-images.githubusercontent.com/65648983/200825850-2a4aa773-cf92-42b9-af15-4c78cf45f5c2.png)
 
 ## The steps are:
 1. Download ratings and movies data from https://files.grouplens.org/datasets/movielens.
